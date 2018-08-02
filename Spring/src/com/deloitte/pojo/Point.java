@@ -2,7 +2,7 @@ package com.deloitte.pojo;
 
 public class Point {
 	
-	private int x;
+	private int x=10;
 	private int y;
 	public int getX() {
 		return x;
